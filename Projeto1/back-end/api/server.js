@@ -13,7 +13,7 @@ app.use("/uploads", express.static("uploads"));
 
 mongoose
   .connect(
-    "mongodb+srv://Arth:GkpFux4vjl1GzSqE@cluster0.froclnc.mongodb.net/data?retryWrites=true&w=majority"
+    "SUA URL DO MONGODB"
   )
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.error(err));
