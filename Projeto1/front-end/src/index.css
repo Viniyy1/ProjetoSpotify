@@ -223,10 +223,9 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 70px; /* altura fixa evita deslocamentos */
+  height: 70px;
   padding: 0 20px;
   background-color: #000;
-  position: fixed; /* se quiser ele sempre no topo da tela */
   top: 0;
   left: 0;
   right: 0;
