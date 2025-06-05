@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import Artists from "./pages/Artists";
 import Artist from "./pages/Artist";
 import Songs from "./pages/Songs";
